@@ -1,6 +1,7 @@
 [user]
 	name = oxmyx
 	email = 99028026+oxmyx@users.noreply.github.com
+	signingkey = EDD0859D5B1A8851
 [core]
 	editor = nano
 [init]
