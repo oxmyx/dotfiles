@@ -1,3 +1,17 @@
 [user]
-	email = 99028026+oxmyx@users.noreply.github.com
 	name = oxmyx
+	email = 99028026+oxmyx@users.noreply.github.com
+	signingkey = EDD0859D5B1A8851
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
+	ui = true
+
+[commit]
+	gpgsign = true
